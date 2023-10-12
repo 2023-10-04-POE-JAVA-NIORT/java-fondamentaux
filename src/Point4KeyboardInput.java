@@ -28,6 +28,8 @@ public class Point4KeyboardInput {
 
 //        String fullName=input.nextLine();
 //        System.out.println(fullName);
+
+        input.close();
     }
 }
 
