@@ -1,3 +1,5 @@
+package journee1_12_octobre_2023.cours;
+
 import java.util.Scanner;
 
 public class Point6Conditions {

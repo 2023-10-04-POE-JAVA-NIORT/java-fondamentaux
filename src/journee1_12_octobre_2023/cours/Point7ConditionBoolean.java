@@ -1,3 +1,5 @@
+package journee1_12_octobre_2023.cours;
+
 import java.util.Scanner;
 
 public class Point7ConditionBoolean {
@@ -8,8 +10,8 @@ public class Point7ConditionBoolean {
         var age=input.nextInt();
 
 //        boolean isMajor=age>=18;
-        var isMajor=age>=18;
-
+//        var isMajor=age>18 || age==18;
+        var isMajor=age>18;
         if(isMajor){
             System.out.println("Ouiiii");
         }else{

@@ -1,6 +1,8 @@
+package journee1_12_octobre_2023.tps;
+
 import java.util.Scanner;
 
-public class Tp2Polynome {
+public class Tp4Polynomes {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -16,8 +18,8 @@ public class Tp2Polynome {
         System.out.print("Entrez x (double) : ");
         double x = input.nextDouble();
 
-        double resultat = ((a + b) / 2) * Math.pow(x, 3) + Math.pow((a + b), 2) * Math.pow(x, 2) + a + b + c;
+        double result = ((a + b) / 2) * Math.pow(x, 3) + Math.pow((a + b), 2) * Math.pow(x, 2) + a + b + c;
 
-        System.out.println("La valeur du polynôme est : " + resultat);
+        System.out.println("La valeur du polynôme est : " + result);
     }
 }

@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d99faaf-80b5-4674-8289-48addb3472aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point5TypeInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point6Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point7ConditionBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tp2Polynome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point8AlternativesMultiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp1SurfaceCercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp2Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp3DateNaissance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/TpLangues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point4KeyboardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point4KeyboardInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point1TypesNombres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point1TypesNombres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point2TypeText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point2TypeText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point3Affichage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point3Affichage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point4KeyboardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point4KeyboardInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point5TypeInference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point5TypeInference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point6Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point6Conditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point7ConditionBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point7ConditionBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tp2Polynome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp2Polynome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,37 +52,37 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point7ConditionBoolean">
-    <configuration name="Point4KeyboardInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point4KeyboardInput" />
-      <module name="module-java-et-poo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Point5TypeInference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point5TypeInference" />
-      <module name="module-java-et-poo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Tp5Languages3">
     <configuration name="Point6Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point6Conditions" />
+      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.cours.Point6Conditions" />
       <module name="module-java-et-poo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Point7ConditionBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point7ConditionBoolean" />
+      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.cours.Point7ConditionBoolean" />
       <module name="module-java-et-poo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp2Polynome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp2Polynome" />
+    <configuration name="Point8AlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.cours.Point8AlternativesMultiples" />
+      <module name="module-java-et-poo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tp4Polynomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.tps.Tp4Polynomes" />
+      <module name="module-java-et-poo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tp5Languages3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.tps.Tp5Languages3" />
       <module name="module-java-et-poo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tp5Languages3" />
+        <item itemvalue="Application.Tp4Polynomes" />
+        <item itemvalue="Application.Point8AlternativesMultiples" />
         <item itemvalue="Application.Point7ConditionBoolean" />
         <item itemvalue="Application.Point6Conditions" />
-        <item itemvalue="Application.Tp2Polynome" />
-        <item itemvalue="Application.Point5TypeInference" />
-        <item itemvalue="Application.Point4KeyboardInput" />
       </list>
     </recent_temporary>
   </component>
