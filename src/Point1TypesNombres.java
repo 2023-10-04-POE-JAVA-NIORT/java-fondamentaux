@@ -1,4 +1,4 @@
-public class Main {
+public class Point1TypesNombres {
     public static void main(String[] args) {
         // Entiers
         byte age=12;
@@ -8,6 +8,5 @@ public class Main {
         // Double
         float prix=25.6f;
         double prixUht=45.3;
-
     }
 }
