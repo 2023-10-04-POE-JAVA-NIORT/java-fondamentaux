@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d99faaf-80b5-4674-8289-48addb3472aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Point2TypeText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point2TypeText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point3Affichage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point2TypeText">
+  <component name="RunManager" selected="Application.Point3Affichage">
     <configuration name="Point1TypesNombres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point1TypesNombres" />
       <module name="module-java-et-poo" />
@@ -53,8 +54,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Point3Affichage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point3Affichage" />
+      <module name="module-java-et-poo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point3Affichage" />
         <item itemvalue="Application.Point2TypeText" />
         <item itemvalue="Application.Point1TypesNombres" />
       </list>
