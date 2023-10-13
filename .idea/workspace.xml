@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d99faaf-80b5-4674-8289-48addb3472aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/cours/Point4BoucleWhileCodePinV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/cours/Point4BoucleWhileCodePinV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/tps/Tp2Equation2ndDegre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/tps/Tp3MoiAnnees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/tps/Tp4Calculatrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/tps/Tp5TableMulti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/tps/Tp6CodePin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee2_13_octobre_2023/tps/Tp1Parite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/tps/Tp1Parite.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point4BoucleWhileCodePinV2">
+  <component name="RunManager" selected="Application.Tp6CodePin">
     <configuration name="Point4BoucleWhileCodePinV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="journee2_13_octobre_2023.cours.Point4BoucleWhileCodePinV1" />
       <module name="module-java-et-poo" />
@@ -66,19 +60,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="journee2_13_octobre_2023.cours.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tp2Equation2ndDegre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee2_13_octobre_2023.tps.Tp2Equation2ndDegre" />
-      <module name="module-java-et-poo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="journee2_13_octobre_2023.tps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tp6CodePin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee2_13_octobre_2023.tps.Tp6CodePin" />
+      <module name="module-java-et-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee2_13_octobre_2023.tps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tp6CodePin" />
         <item itemvalue="Application.Point4BoucleWhileCodePinV2" />
         <item itemvalue="Application.Point4BoucleWhileCodePinV1" />
         <item itemvalue="Application.Tp4Calculatrice" />
         <item itemvalue="Application.Tp3MoiAnnees" />
-        <item itemvalue="Application.Tp2Equation2ndDegre" />
       </list>
     </recent_temporary>
   </component>
