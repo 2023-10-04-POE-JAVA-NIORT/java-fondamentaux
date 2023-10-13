@@ -24,5 +24,6 @@ public class Tp2Permutations {
 
         System.out.println("Permutation: b <== a, c <== b, a <== c");
         System.out.printf("Les valeurs permutées sont : a = %d, b = %d et c = %d\n", a, b, c);
+        scanner.close();
     }
 }
