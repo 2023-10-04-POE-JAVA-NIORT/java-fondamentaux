@@ -10,8 +10,9 @@ public class Tp1SurfaceCercle {
         double diameter = input.nextDouble();
 
         double radius = diameter / 2;
-        double area = Math.PI * Math.pow(radius,2);
+        double area = Math.PI * Math.pow(radius, 2);
 
-        System.out.printf("Surface : %.2f",area);
+        System.out.printf("Surface : %.2f", area);
+        input.close();
     }
 }

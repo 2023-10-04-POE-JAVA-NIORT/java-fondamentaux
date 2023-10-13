@@ -4,13 +4,13 @@ import java.util.Scanner;
 
 public class Tp5Languages2 {
     public static void main(String[] args) {
-        var input=new Scanner(System.in);
+        var input = new Scanner(System.in);
 
         System.out.print("Votre langue : ");
-        var language=input.next();
+        var language = input.next();
 
         // Switch case : Approche classique
-        switch (language.toLowerCase()){
+        switch (language.toLowerCase()) {
             case "english":
                 System.out.println("Hello!!");
                 break;
@@ -26,5 +26,6 @@ public class Tp5Languages2 {
             default:
                 System.out.println("Langue non supportée!!");
         }
+        input.close();
     }
 }
