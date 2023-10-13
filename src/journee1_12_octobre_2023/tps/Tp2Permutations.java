@@ -10,14 +10,14 @@ public class Tp2Permutations {
         var a = scanner.nextInt();
 
         System.out.print("Entrez la deuxième valeur (b) : ");
-        int b = scanner.nextInt();
+        var b = scanner.nextInt();
 
         System.out.print("Entrez la troisième valeur (c) : ");
-        int c = scanner.nextInt();
+        var c = scanner.nextInt();
 
         System.out.printf("Les valeurs entrées sont : a = %d, b = %d et c = %d\n", a, b, c);
 
-        int temp = a;
+        var temp = a;
         a = c;
         c = b;
         b = temp;

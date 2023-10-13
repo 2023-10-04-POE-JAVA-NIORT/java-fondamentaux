@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d99faaf-80b5-4674-8289-48addb3472aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point8AlternativesMultiples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp1SurfaceCercle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp2Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp3DateNaissance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/TpLangues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/cours/Point1RevisionSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/cours/Point2AffectationVsEgalite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/cours/Point3For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee2_13_octobre_2023/tps/Tp1Parite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point1TypesNombres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point1TypesNombres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point2TypeText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point2TypeText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point3Affichage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point3Affichage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point4KeyboardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point4KeyboardInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point5TypeInference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point5TypeInference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point6Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point6Conditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point7ConditionBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/cours/Point7ConditionBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp2Polynome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp2Polynome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp2Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_12_octobre_2023/tps/Tp2Permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,31 +44,55 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Tp5Languages3">
-    <configuration name="Point6Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.cours.Point6Conditions" />
+  <component name="RunManager" selected="Application.Point3For">
+    <configuration name="Point1RevisionSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee2_13_octobre_2023.cours.Point1RevisionSwitchCase" />
       <module name="module-java-et-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee2_13_octobre_2023.cours.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point7ConditionBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.cours.Point7ConditionBoolean" />
+    <configuration name="Point2AffectationVsEgalite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee2_13_octobre_2023.cours.Point2AffectationVsEgalite" />
       <module name="module-java-et-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee2_13_octobre_2023.cours.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point8AlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.cours.Point8AlternativesMultiples" />
+    <configuration name="Point3For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee2_13_octobre_2023.cours.Point3For" />
       <module name="module-java-et-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee2_13_octobre_2023.cours.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp4Polynomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_12_octobre_2023.tps.Tp4Polynomes" />
+    <configuration name="Tp1Parite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee2_13_octobre_2023.tps.Tp1Parite" />
       <module name="module-java-et-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee2_13_octobre_2023.tps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point3For" />
+        <item itemvalue="Application.Tp1Parite" />
+        <item itemvalue="Application.Point2AffectationVsEgalite" />
+        <item itemvalue="Application.Point1RevisionSwitchCase" />
         <item itemvalue="Application.Tp5Languages3" />
-        <item itemvalue="Application.Tp4Polynomes" />
-        <item itemvalue="Application.Point8AlternativesMultiples" />
-        <item itemvalue="Application.Point7ConditionBoolean" />
-        <item itemvalue="Application.Point6Conditions" />
       </list>
     </recent_temporary>
   </component>
