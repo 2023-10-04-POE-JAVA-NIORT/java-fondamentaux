@@ -4,17 +4,17 @@ import java.util.Scanner;
 
 public class Tp1Parite {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        var input = new Scanner(System.in);
         System.out.print("Entrez un nombre entier : ");
-        int nombre = input.nextInt();
-        String parite=nombre%2==0?"pair":"impair";
+        var number = input.nextInt();
+        String parity=number%2==0?"pair":"impair";
 
-        if (nombre > 0) {
-            System.out.printf("Le nombre est positif et %s",parite);
-        } else if (nombre < 0) {
-            System.out.printf("Le nombre est negatif et %s",parite);
+        if (number > 0) {
+            System.out.printf("%d est positif et %s",number,parity);
+        } else if (number < 0) {
+            System.out.printf("%d est negatif et %s",number,parity);
         } else {
-            System.out.printf("le chiffre est zero et %s",parite);
+            System.out.printf("le chiffre est zero et %s",parity);
         }
         input.close();
     }
