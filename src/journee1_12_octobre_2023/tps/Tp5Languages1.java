@@ -4,22 +4,23 @@ import java.util.Scanner;
 
 public class Tp5Languages1 {
     public static void main(String[] args) {
-        var input=new Scanner(System.in);
+        var input = new Scanner(System.in);
 
         System.out.print("Votre langue : ");
-        var language=input.next();
+        var language = input.next();
 
         // Faire un test en ignorant la case
-        if(language.equalsIgnoreCase("english")){
+        if (language.equalsIgnoreCase("english")) {
             System.out.println("Hello!!");
-        }else if(language.equalsIgnoreCase("french")){
+        } else if (language.equalsIgnoreCase("french")) {
             System.out.println("Salut!!");
-        } else if(language.equalsIgnoreCase("spanish")) {
+        } else if (language.equalsIgnoreCase("spanish")) {
             System.out.println("Hola!!");
-        }else if(language.equalsIgnoreCase("german")){
+        } else if (language.equalsIgnoreCase("german")) {
             System.out.println("Guten tag");
-        }else {
+        } else {
             System.out.println("Langue non supportée!!");
         }
+        input.close();
     }
 }

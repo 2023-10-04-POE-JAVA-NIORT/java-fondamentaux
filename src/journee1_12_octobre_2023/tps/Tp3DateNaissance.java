@@ -14,5 +14,6 @@ public class Tp3DateNaissance {
         var birthYear = currentYear - age;
 
         System.out.printf("Votre année de naissance est : %d\n", birthYear);
+        input.close();
     }
 }
