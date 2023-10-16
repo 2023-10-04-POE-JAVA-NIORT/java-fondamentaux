@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d99faaf-80b5-4674-8289-48addb3472aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/cours/Point4TableauDynamiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/cours/Point5NotesPhysiquesTableauxDynamiques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/cours/Point6Fonctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/cours/Point6Fonctions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp2RechercheTableaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp3PlusGrandNombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp4SommeTableaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp5ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Point5NotesPhysiquesTableauxDynamiques">
-    <configuration name="Point3TableauxEtBoucles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.cours.Point3TableauxEtBoucles" />
-      <module name="module-java-et-poo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="journee3_16_octobre_2023.cours.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Point6Fonctions">
     <configuration name="Point4TableauDynamiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.cours.Point4TableauDynamiques" />
       <module name="module-java-et-poo" />
@@ -94,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Point6Fonctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.cours.Point6Fonctions" />
+      <module name="module-java-et-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee3_16_octobre_2023.cours.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tp1NotesCours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.tp.Tp1NotesCours" />
       <module name="module-java-et-poo" />
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point6Fonctions" />
         <item itemvalue="Application.Point5NotesPhysiquesTableauxDynamiques" />
         <item itemvalue="Application.Point5NoteCoursTableauxDynamiques" />
         <item itemvalue="Application.Point4TableauDynamiques" />
         <item itemvalue="Application.Tp1NotesCours" />
-        <item itemvalue="Application.Point3TableauxEtBoucles" />
       </list>
     </recent_temporary>
   </component>
