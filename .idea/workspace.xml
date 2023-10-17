@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d99faaf-80b5-4674-8289-48addb3472aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/cours/Point6Fonctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/cours/Point6Fonctions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp2RechercheTableaux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp3PlusGrandNombre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp4SommeTableaux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp5ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/cours/Point7ExoSommeDiagonales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp0TableauxDynamiqueSommes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp3SommeTableauxAvecFonctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp5ReverseStringSolutionStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp6ElementsPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp7Alternate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp8Directions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp9ConsecutiveChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp2RechercheTableaux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp2RechercheTableaux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp3PlusGrandNombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp4PlusGrandPlusPetitNombre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp4SommeTableaux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp3SommeTableaux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp5ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee3_16_octobre_2023/tp/Tp5ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +51,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Point6Fonctions">
-    <configuration name="Point4TableauDynamiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.cours.Point4TableauDynamiques" />
+  <component name="RunManager" selected="Application.Tp9ConsecutiveChars">
+    <configuration name="Tp5ReverseStringSolutionStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.tp.Tp5ReverseStringSolutionStringBuilder" />
       <module name="module-java-et-poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee3_16_octobre_2023.cours.*" />
+          <option name="PATTERN" value="journee3_16_octobre_2023.tp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point5NoteCoursTableauxDynamiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.cours.Point5NoteCoursTableauxDynamiques" />
+    <configuration name="Tp6ElementsPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.tp.Tp6ElementsPosition" />
       <module name="module-java-et-poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee3_16_octobre_2023.cours.*" />
+          <option name="PATTERN" value="journee3_16_octobre_2023.tp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point5NotesPhysiquesTableauxDynamiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.cours.Point5NotesPhysiquesTableauxDynamiques" />
+    <configuration name="Tp7Alternate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.tp.Tp7Alternate" />
       <module name="module-java-et-poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee3_16_octobre_2023.cours.*" />
+          <option name="PATTERN" value="journee3_16_octobre_2023.tp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point6Fonctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.cours.Point6Fonctions" />
+    <configuration name="Tp8Directions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.tp.Tp8Directions" />
       <module name="module-java-et-poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee3_16_octobre_2023.cours.*" />
+          <option name="PATTERN" value="journee3_16_octobre_2023.tp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp1NotesCours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.tp.Tp1NotesCours" />
+    <configuration name="Tp9ConsecutiveChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee3_16_octobre_2023.tp.Tp9ConsecutiveChars" />
       <module name="module-java-et-poo" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Point6Fonctions" />
-        <item itemvalue="Application.Point5NotesPhysiquesTableauxDynamiques" />
-        <item itemvalue="Application.Point5NoteCoursTableauxDynamiques" />
-        <item itemvalue="Application.Point4TableauDynamiques" />
-        <item itemvalue="Application.Tp1NotesCours" />
+        <item itemvalue="Application.Tp9ConsecutiveChars" />
+        <item itemvalue="Application.Tp8Directions" />
+        <item itemvalue="Application.Tp7Alternate" />
+        <item itemvalue="Application.Tp6ElementsPosition" />
+        <item itemvalue="Application.Tp5ReverseStringSolutionStringBuilder" />
       </list>
     </recent_temporary>
   </component>
